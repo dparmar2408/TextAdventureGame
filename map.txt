@@ -1,0 +1,7 @@
+|||DestructionCompartment|
+||EmptySubCompartment|ThanosCompartment|
+||VenomCompartment||
+||EmptySubCompartment||
+||EmptySubCompartment||
+|JokerCompartment|EmptySubCompartment|FindSwordCompartment|
+|EmptySubCompartment|StartingCompartment|EmptySubCompartment|
